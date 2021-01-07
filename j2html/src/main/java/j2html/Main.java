@@ -9,6 +9,5 @@ public class Main {
             img().withSrc("/img/hello.png")
         ).render();
         System.out.println(render);
-        
     }
 }
